@@ -25,6 +25,7 @@ RENEW_URLS = [
     "https://host2play.gratis/server/renew?i=e852c234-ee25-4d34-8001-1e8b090ea2ba",
     "https://host2play.gratis/server/renew?i=7a9623ff-dd79-4844-b1c2-8510bc605a36",
     "https://host2play.gratis/server/renew?i=4ea58beb-57fd-436a-a2aa-bec51859db4d",
+    "https://host2play.gratis/server/renew?i=871be681-0de5-404d-82e6-14bb96dec0af",
     # 添加更多链接
 ]
 
