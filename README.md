@@ -88,7 +88,7 @@ Fork 本仓库并完成上述配置后，工作流会按以下时间自动执行
 curl -X POST \
   -H "Authorization: Bearer ghp_你的Token" \
   -H "Accept: application/vnd.github.v3+json" \
-  https://api.github.com/repos/你的用户名/你的仓库名/actions/workflows/host2play-renew.yml/dispatches \
+  https://api.github.com/repos/你的用户名/你的仓库名/actions/workflows/Host2Play_Renew.yml/dispatches \
   -d '{"ref":"main"}'
 ```
 
@@ -136,4 +136,4 @@ MIT License
 
 ---
 
-**⚠️ 免责声明**：本脚本仅供学习交流使用，使用者需遵守 Host2Play 的服务条款。因使用本脚本造成的账号封禁或其他损失，作者不承担任何责任。
+**⚠️ 免责声明**：本脚本仅供学习交流使用，使用者需遵守 Host2Play 的服务条款。因使用本脚本造成的任何问题，作者不承担任何责任。
